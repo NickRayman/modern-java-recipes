@@ -1,4 +1,4 @@
-package org.kolyanrayman;
+package com.kolyanrayman;
 
 public class Main {
     public static void main(String[] args) {
