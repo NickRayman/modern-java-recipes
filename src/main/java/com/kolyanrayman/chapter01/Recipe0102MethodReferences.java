@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class Recipe0102LambdaExpressions {
+public class Recipe0102MethodReferences {
 
     public static void main(String[] args) {
         System.out.println("_____________Использование ссылки на метод для доступа к println_____________");
